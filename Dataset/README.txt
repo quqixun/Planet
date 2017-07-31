@@ -1,0 +1,1 @@
+Training and testing images as well as training labels are stored in this folder.
