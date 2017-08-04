@@ -1,16 +1,16 @@
 # Planet - Kaggle Competition
 
-## Introduction
+## 1. Introduction
 
-## Dataset
+## 2. Dataset
 
-### Labels
+### 2.1 Labels
 
 Labels, clear, cloudy, partly_cloudy, haze, primary, water, habitation,
 agriculture, road, cultivation, bare_ground, slash_burn, selective_logging,
 blooming, conventional_mine, artisinal_mine, blow_down.
 
-### Images
+### 2.2 Images
 
 Image | Labels | Image | Labels
 ------|--------|-------|-------
@@ -19,27 +19,27 @@ Image | Labels | Image | Labels
 <img src="https://github.com/quqixun/Planet/blob/master/Images/3.jpg" width="60"> | clear habitation road | <img src="https://github.com/quqixun/Planet/blob/master/Images/7.jpg" width="60"> | agriculture clear habitation primary road water
 <img src="https://github.com/quqixun/Planet/blob/master/Images/4.jpg" width="60"> | agriculture clear primary road | <img src="https://github.com/quqixun/Planet/blob/master/Images/8.jpg" width="60"> | agriculture cultivation habitation partly_cloudy primary road
 
-## Models
+## 3. Models
 
-### Simple Convolutional Neural Network
+### 3.1 Simple Convolutional Neural Network
 
 <img src="https://github.com/quqixun/Planet/blob/master/Images/cnn.png" width="350">
 
-### Combination of Residual Network and Pyramid Network
+### 3.2 Combination of Residual Network and Pyramid Network
 
-## Implementation
+## 4. Implementation
 
-### Dependencies
+### 4.1 Dependencies
 
-### Code Orgnization
+### 4.2 Code Orgnization
 
-### Usage
+### 4.3 Usage
 
-## Evaluation
+## 5. Evaluation
 
-## Discussion
+## 6. Discussion
 
-## References
+## 7. References
 
 1. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 2. [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144)
