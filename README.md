@@ -28,6 +28,7 @@ Image | Labels | Image | Labels
 ### 3.2 Combination of Residual Network and Pyramid Network
 
 <img src="https://github.com/quqixun/Planet/blob/master/Images/res.png" width="900">
+<img src="https://github.com/quqixun/Planet/blob/master/Images/res_part.png" width="900">
 
 ## 4. Implementation
 
