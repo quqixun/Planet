@@ -6,7 +6,7 @@
 
 ### 2.1 Labels
 
-Labels, clear, cloudy, partly_cloudy, haze, primary, water, habitation,
+Labels: clear, cloudy, partly_cloudy, haze, primary, water, habitation,
 agriculture, road, cultivation, bare_ground, slash_burn, selective_logging,
 blooming, conventional_mine, artisinal_mine, blow_down.
 
@@ -33,6 +33,15 @@ Image | Labels | Image | Labels
 ## 4. Implementation
 
 ### 4.1 Dependencies
+
+* tqdm 4.14.0
+* numpy 1.12.1
+* pandas 0.20.1
+* opencv3 3.1.0
+* imutils 0.4.3
+* tensorlayer 1.4.5
+* scikit-learn 0.18.1
+* tensorflow 1.2.1 (compiled from source)
 
 ### 4.2 Code Orgnization
 
