@@ -19,6 +19,12 @@ Image | Labels | Image | Labels
 <img src="https://github.com/quqixun/Planet/blob/master/Images/3.jpg" width="60"> | clear habitation road | <img src="https://github.com/quqixun/Planet/blob/master/Images/7.jpg" width="60"> | agriculture clear habitation primary road water
 <img src="https://github.com/quqixun/Planet/blob/master/Images/4.jpg" width="60"> | agriculture clear primary road | <img src="https://github.com/quqixun/Planet/blob/master/Images/8.jpg" width="60"> | agriculture cultivation habitation partly_cloudy primary road
 
+### 2.3 Augmentation
+
+Original | 90° | 180° | 270° | Flip H | Flip V
+---------|-----|------|------|--------|-------
+<img src="https://github.com/quqixun/Planet/blob/master/Images/7.jpg" width="60"> | <img src="https://github.com/quqixun/Planet/blob/master/Images/7_90.jpg" width="60"> | <img src="https://github.com/quqixun/Planet/blob/master/Images/7_180.jpg" width="60"> | <img src="https://github.com/quqixun/Planet/blob/master/Images/7_270.jpg" width="60"> | <img src="https://github.com/quqixun/Planet/blob/master/Images/7_flipH.png" width="60"> | <img src="https://github.com/quqixun/Planet/blob/master/Images/7_flipV.png" width="60">
+
 ## 3. Models
 
 ### 3.1 Simple Convolutional Neural Network
